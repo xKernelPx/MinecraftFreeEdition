@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursedWork", "CursedWork\CursedWork.csproj", "{0472AC5B-FE75-4A3F-A98E-56B85BD9874F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CubesWPF", "..\CubesWPF\CubesWPF\CubesWPF.csproj", "{9EB488F6-E815-43B8-AEAA-87F5ED9B33DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0472AC5B-FE75-4A3F-A98E-56B85BD9874F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0472AC5B-FE75-4A3F-A98E-56B85BD9874F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0472AC5B-FE75-4A3F-A98E-56B85BD9874F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0472AC5B-FE75-4A3F-A98E-56B85BD9874F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EB488F6-E815-43B8-AEAA-87F5ED9B33DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EB488F6-E815-43B8-AEAA-87F5ED9B33DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EB488F6-E815-43B8-AEAA-87F5ED9B33DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EB488F6-E815-43B8-AEAA-87F5ED9B33DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {516D7839-4E6C-4870-AB53-AC43F57B63BF}
+	EndGlobalSection
+EndGlobal
